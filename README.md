@@ -17,10 +17,10 @@ to get the results we have to follow these steps
 
 which we can see the results in these pictures
 
-![This is an image](june_temp.png)
+![This is an image](https://github.com/samiramghd/surfs_up/blob/main/june_temp.PNG)
 
 
-![This is an image](dec_temp.png)
+![This is an image](https://github.com/samiramghd/surfs_up/blob/main/dec_temp.PNG)
 
 > The mean temperature for June is 75°F which is higher than the mean temperature for December 71°F. Standard Devision in December is 3.74 and 3.25 in June which is showing that we have more spreading temprature in December than June. by comparing both results we realize that both June and December are good months to surf.
 
